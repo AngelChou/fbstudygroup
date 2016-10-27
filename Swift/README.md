@@ -1,20 +1,32 @@
 
-## Facebook線上讀書會資源整理
+## 線上Swift讀書會
 
-|線上讀書會|FB社團|讀書會時間|
-|---|---|---|
-|reactjs|[連結](https://www.facebook.com/groups/906048196159262/)|週一 20:00 A組 / 21:00 B組|
-|nodejs|[連結](https://www.facebook.com/groups/207139586323090/)|週二 19:30|
-|docker|[連結](https://www.facebook.com/groups/750311598438135/)|
-|swift|[連結](https://www.facebook.com/groups/238948643131478/)|週四 20:00|
-|laravel|[連結](https://www.facebook.com/groups/956973084383781/)|週五 19:30|
-|unity|[連結](https://www.facebook.com/groups/1606498833013546/)|週五 19:30|
-|strongloop|[連結](https://www.facebook.com/groups/568032146690485/)|
-|vue.js|[連結](https://www.facebook.com/groups/616281401885574/)|
-|iot|[連結](https://www.facebook.com/groups/842415582524882/)|
-|meteor|[連結](https://www.facebook.com/groups/930921220347797/)|
-|go|[連結](https://www.facebook.com/groups/1288435607857868/)|
-|迷你黑客松|[連結](https://www.facebook.com/groups/1274976625880806/)|
-|日語|[連結](https://www.facebook.com/groups/1113446758690591/)|週二/週四 10:00|
-|英文|[連結](https://www.facebook.com/groups/1781798848754929/)|14:00|
-|數位美術|[連結](https://www.facebook.com/groups/670166459806094/)|
+- 2016/04/19成立
+- FB社團: https://www.facebook.com/groups/238948643131478/
+
+### 讀書會紀錄 - iOS 9 App 程式設計實力超進化實戰攻略
+- [線上試閱](http://www.appcoda.com.tw/learnswift/index.html)
+
+|日期|主題|影片|
+|---|---|---|---|
+|[2016/06/30 20:00](https://www.facebook.com/events/255217994843352/)|讀書會開跑(會前會)||
+|[2016/07/07 20:00](https://www.facebook.com/events/301096076889872/)|CH1~4 by Pofat|[link](https://youtu.be/e3R_FUot8LI)|
+|[2016/07/14 20:00](https://www.facebook.com/events/520998164756831/)|CH5, 6 by hunter||
+
+
+### 讀書會紀錄 - Developing iOS9 Apps with Swift
+- [課程資訊](https://l.facebook.com/l.php?u=https%3A%2F%2Fitunes.apple.com%2Ftw%2Fcourse%2Fdeveloping-ios-9-apps-swift%2Fid1104579961&h=3AQFVhAX5)
+
+
+
+### 其他Swift資源
+- [HackNTU-iOS-Course-2015](https://github.com/Appletone/HackNTU-iOS-Course-2015)
+- [Swift起步走](https://www.gitbook.com/book/itisjoe/swiftgo/details)
+- [Xcode無開發者帳號建置流程](http://blog.ctrlxctrlv.net/xcode-build-without-developer-account/)
+
+### 相關工具
+- [HackMD](https://hackmd.io/)
+- [Markdown](http://markdown.tw/)
+  - 教學: [markdown簡介以hackmd為例](https://www.youtube.com/watch?v=8maKJ6CJ9no) 
+- [Github](https://github.com/)
+- [Zoom](https://zoomnow.tw/)
