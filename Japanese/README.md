@@ -1,9 +1,9 @@
 
 ## 線上日語讀書會
 
-2016/9/20成立
-FB社團: https://www.facebook.com/groups/1113446758690591/
-Github: https://github.com/onlinereadbook/bookJapanese
+- 2016/9/20成立
+- FB社團: https://www.facebook.com/groups/1113446758690591/
+- Github: https://github.com/onlinereadbook/bookJapanese
 
 ### 讀書會紀錄
 |日期|主題|影片|相關資源|備註|
