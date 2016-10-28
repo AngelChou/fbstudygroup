@@ -2,7 +2,8 @@
 ## 線上Swift讀書會
 
 - 2016/04/19成立
-- FB社團: https://www.facebook.com/groups/238948643131478/
+- [FB社團](https://www.facebook.com/groups/238948643131478/)
+- [Github](https://github.com/onlinereadbook/bookswift)
 - [iOS 9 App 程式設計實力超進化實戰攻略(線上試閱)](http://www.appcoda.com.tw/learnswift/index.html)
 - [Swift讀書會認領表](https://docs.google.com/spreadsheets/d/1AlIbONUapEXDfWY2XdpdqLi8xGh5X3o8qNJyFTk4um0/edit#gid=0)
 - 2016/08/27: [讀書會願望清單](https://www.facebook.com/groups/238948643131478/permalink/311740685852273/)
